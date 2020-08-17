@@ -24,4 +24,5 @@ class Circle {
     this.radius = Math.sqrt( area / Math.PI )
   }
 }
-let c = new Circle()
+let c = new Circle(3);
+console.log(c.circumference)
