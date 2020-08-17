@@ -25,4 +25,4 @@ class Circle {
   }
 }
 let c = new Circle(3);
-console.log(c.circumference)
+console.log(c.circumference);
